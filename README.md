@@ -1,1 +1,1 @@
-# GenAi-Lab-Assignments
+# GenAi-Skills-Project
